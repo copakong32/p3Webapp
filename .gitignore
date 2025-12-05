@@ -1,0 +1,14 @@
+# Virtual environments
+ll_env/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Local databases
+*.sqlite3
+
+# VS Code settings (optional)
+.vscode/
